@@ -20,3 +20,6 @@ committed
 staging area
 
 working area
+
+## Copyright
+2017 copyright
