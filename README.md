@@ -8,8 +8,11 @@ This is an intro of the sample web project
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. purpose edit
 
 ## Deployment
 
+this is a deployment comment for the deployment section
+
 ## How To Contribute
+committed
