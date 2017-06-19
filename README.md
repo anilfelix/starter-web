@@ -23,3 +23,8 @@ working area
 
 ## Copyright
 2017 copyright
+
+
+## How to contribute
+
+please fork this repository issue pul request
