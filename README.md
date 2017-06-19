@@ -16,3 +16,7 @@ this is a deployment comment for the deployment section
 
 ## How To Contribute
 committed
+
+staging area
+
+working area
