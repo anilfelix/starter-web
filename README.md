@@ -2,7 +2,7 @@
 
 This is a sample website project
 
-Adding a line for rebasing example
+Adding a line for rebasing example, more from feature branch
 
 ## Introduction
 
