@@ -2,6 +2,8 @@
 
 This is a sample website project
 
+Adding a line for rebasing example
+
 ## Introduction
 
 This is an intro of the sample web project
