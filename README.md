@@ -24,7 +24,7 @@ staging area
 working area
 
 ## Copyright
-2017 copyright
+2017 copyright. all rights reserved
 
 
 ## How to contribute
